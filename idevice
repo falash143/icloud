@@ -1,0 +1,285 @@
+<?xml version="1.0"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <updated>2014-07-07T03:41:00Z</updated>
+ <id>http://code.google.com/feeds/p/iactivator/gitchanges/basic</id>
+ <title>Git commits to project iactivator on Google Code</title>
+ <link rel="alternate" type="text/html" href="http://code.google.com/p/iactivator/source/list"/>
+ <link rel="self" type="application/atom+xml;type=feed" href="http://code.google.com/feeds/p/iactivator/gitchanges/basic"/>
+  <entry>
+ <updated>2014-07-07T03:41:00Z</updated>
+ <id>http://code.google.com/feeds/p/iactivator/gitchanges/basic/251e48ce42a5c467e8cf5304a1f7fead673396d8</id>
+ <link rel="alternate" type="text/html"
+ href="http://code.google.com/p/iactivator/source/detail?r=251e48ce42a5c467e8cf5304a1f7fead673396d8" />
+ <title>Revision 251e48ce42: initial commit </title>
+ <author>
+ <name>Abdul Hakeem &lt;ameen_si...@yahoo.com.sg&gt;</name>
+ </author>
+ <content type="html">
+ Changed Paths:&lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Debug/Debug.zip
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Debug/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Debug/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Debug/iActivator.vshost.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Release/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Release/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Release/iActivator.vshost.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/bin/Release/iActivator.vshost.exe.manifest
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/GenerateResource-ResGen.read.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/GenerateResource-ResGen.write.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/ResolveAssemblyReference.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.Form1.resources
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.csproj.FileListAbsolute.txt
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/GenerateResource-ResGen.read.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/GenerateResource-ResGen.write.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.Form1.resources
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.csproj.FileListAbsolute.txt
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Delete&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &lt;br/&gt;initial commit
+
+ </content>
+</entry>
+  <entry>
+ <updated>2014-07-07T03:33:06Z</updated>
+ <id>http://code.google.com/feeds/p/iactivator/gitchanges/basic/7bc96f1524e2a2abc2ef509111fb0aec97c611ef</id>
+ <link rel="alternate" type="text/html"
+ href="http://code.google.com/p/iactivator/source/detail?r=7bc96f1524e2a2abc2ef509111fb0aec97c611ef" />
+ <title>Revision 7bc96f1524: list</title>
+ <author>
+ <name>iSn0wra1ne &lt;iSn0wra1ne&gt;</name>
+ </author>
+ <content type="html">
+ Changed Paths:&lt;br/&gt;
+ &#160;&#160;&#160;&#160;Modify&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.csproj.FileListAbsolute.txt
+ 
+ &lt;br/&gt;
+ &lt;br/&gt;list
+ </content>
+</entry>
+  <entry>
+ <updated>2011-08-16T22:39:53Z</updated>
+ <id>http://code.google.com/feeds/p/iactivator/gitchanges/basic/f07496b87c6cd6e098515ac5ed4658b24f77e56d</id>
+ <link rel="alternate" type="text/html"
+ href="http://code.google.com/p/iactivator/source/detail?r=f07496b87c6cd6e098515ac5ed4658b24f77e56d" />
+ <title>Revision f07496b87c: initial commit </title>
+ <author>
+ <name>iSn0wra1n &lt;isn0wra1ne&gt;</name>
+ </author>
+ <content type="html">
+ Changed Paths:&lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFArray.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFBoolean.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFData.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFDictionary.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFIndex.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFLibrary.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFNumber.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFPropertyList.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFRange.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFString.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/CFType.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/ConnectEventArgs.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/ConnectEventHandler.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/DeviceNotificationEventArgs.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/Form1.Designer.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/Form1.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/Form1.resx
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/MobileDevice.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/Program.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/Properties/AssemblyInfo.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/README
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/SslTcpClient.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/app.manifest
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Debug/Debug.zip
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Debug/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Debug/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Debug/iActivator.vshost.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Release/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Release/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Release/iActivator.vshost.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/bin/Release/iActivator.vshost.exe.manifest
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iActivator.csproj
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iActivator.csproj.user
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iActivator.idc
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iActivator.sln
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iActivator.suo
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iDevice.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/iDeviceFile.cs
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/GenerateResource-ResGen.read.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/GenerateResource-ResGen.write.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/ResolveAssemblyReference.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.Form1.resources
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.csproj.FileListAbsolute.txt
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Debug/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/DesignTimeResolveAssemblyReferencesInput.cache
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/GenerateResource-ResGen.read.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/GenerateResource-ResGen.write.1.tlog
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.Form1.resources
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.csproj.FileListAbsolute.txt
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.exe
+ 
+ &lt;br/&gt;
+ &#160;&#160;&#160;&#160;Add&#160;&#160;&#160;&#160;/obj/x86/Release/iActivator.pdb
+ 
+ &lt;br/&gt;
+ &lt;br/&gt;initial commit
+
+ </content>
+</entry>
+ 
+</feed>
